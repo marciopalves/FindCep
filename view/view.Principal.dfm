@@ -480,6 +480,7 @@ object frmPrincipal: TfrmPrincipal
             Top = 134
             Width = 162
             Height = 23
+            MaxLength = 20
             TabOrder = 2
           end
         end
